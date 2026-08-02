@@ -1,0 +1,223 @@
+[
+  {
+    "id": "U001",
+    "name": "Anurag Sharma",
+    "email": "anurag.sharma@example.com",
+    "phone": "9876543210",
+    "department": "Computer Science",
+    "membershipId": "LM1001",
+    "subscriptionType": "Premium",
+    "joinDate": "2025-07-15",
+    "membershipExpiry": "2026-07-15",
+    "maxBooksAllowed": 5,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B003",
+        "title": "Clean Code",
+        "issueDate": "2026-07-20",
+        "dueDate": "2026-08-10",
+        "returnDate": null,
+        "status": "Issued"
+      },
+      {
+        "bookId": "B011",
+        "title": "Ikigai",
+        "issueDate": "2026-07-25",
+        "dueDate": "2026-08-15",
+        "returnDate": null,
+        "status": "Issued"
+      }
+    ]
+  },
+  {
+    "id": "U002",
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "phone": "9876543211",
+    "department": "Electronics",
+    "membershipId": "LM1002",
+    "subscriptionType": "Standard",
+    "joinDate": "2025-09-10",
+    "membershipExpiry": "2026-09-10",
+    "maxBooksAllowed": 3,
+    "fine": 50,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B009",
+        "title": "Rich Dad Poor Dad",
+        "issueDate": "2026-07-10",
+        "dueDate": "2026-07-31",
+        "returnDate": null,
+        "status": "Overdue"
+      }
+    ]
+  },
+  {
+    "id": "U003",
+    "name": "Rahul Singh",
+    "email": "rahul.singh@example.com",
+    "phone": "9876543212",
+    "department": "Mechanical",
+    "membershipId": "LM1003",
+    "subscriptionType": "Premium",
+    "joinDate": "2025-08-05",
+    "membershipExpiry": "2026-08-05",
+    "maxBooksAllowed": 5,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": []
+  },
+  {
+    "id": "U004",
+    "name": "Sneha Gupta",
+    "email": "sneha.gupta@example.com",
+    "phone": "9876543213",
+    "department": "Civil",
+    "membershipId": "LM1004",
+    "subscriptionType": "Basic",
+    "joinDate": "2026-01-12",
+    "membershipExpiry": "2027-01-12",
+    "maxBooksAllowed": 2,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B006",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "issueDate": "2026-07-22",
+        "dueDate": "2026-08-12",
+        "returnDate": null,
+        "status": "Issued"
+      }
+    ]
+  },
+  {
+    "id": "U005",
+    "name": "Aman Yadav",
+    "email": "aman.yadav@example.com",
+    "phone": "9876543214",
+    "department": "Information Technology",
+    "membershipId": "LM1005",
+    "subscriptionType": "Standard",
+    "joinDate": "2025-11-18",
+    "membershipExpiry": "2026-11-18",
+    "maxBooksAllowed": 3,
+    "fine": 20,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B002",
+        "title": "Atomic Habits",
+        "issueDate": "2026-07-15",
+        "dueDate": "2026-08-05",
+        "returnDate": null,
+        "status": "Issued"
+      }
+    ]
+  },
+  {
+    "id": "U006",
+    "name": "Neha Mishra",
+    "email": "neha.mishra@example.com",
+    "phone": "9876543215",
+    "department": "Computer Science",
+    "membershipId": "LM1006",
+    "subscriptionType": "Premium",
+    "joinDate": "2025-10-01",
+    "membershipExpiry": "2026-10-01",
+    "maxBooksAllowed": 5,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": []
+  },
+  {
+    "id": "U007",
+    "name": "Rohit Kumar",
+    "email": "rohit.kumar@example.com",
+    "phone": "9876543216",
+    "department": "Electrical",
+    "membershipId": "LM1007",
+    "subscriptionType": "Basic",
+    "joinDate": "2026-02-14",
+    "membershipExpiry": "2027-02-14",
+    "maxBooksAllowed": 2,
+    "fine": 100,
+    "status": "Suspended",
+    "issuedBooks": [
+      {
+        "bookId": "B004",
+        "title": "Introduction to Algorithms",
+        "issueDate": "2026-06-25",
+        "dueDate": "2026-07-16",
+        "returnDate": null,
+        "status": "Overdue"
+      }
+    ]
+  },
+  {
+    "id": "U008",
+    "name": "Kavya Patel",
+    "email": "kavya.patel@example.com",
+    "phone": "9876543217",
+    "department": "MBA",
+    "membershipId": "LM1008",
+    "subscriptionType": "Standard",
+    "joinDate": "2025-12-10",
+    "membershipExpiry": "2026-12-10",
+    "maxBooksAllowed": 3,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B012",
+        "title": "The Lean Startup",
+        "issueDate": "2026-07-18",
+        "dueDate": "2026-08-08",
+        "returnDate": null,
+        "status": "Issued"
+      }
+    ]
+  },
+  {
+    "id": "U009",
+    "name": "Vikram Chauhan",
+    "email": "vikram.chauhan@example.com",
+    "phone": "9876543218",
+    "department": "Computer Science",
+    "membershipId": "LM1009",
+    "subscriptionType": "Premium",
+    "joinDate": "2025-06-20",
+    "membershipExpiry": "2026-06-20",
+    "maxBooksAllowed": 5,
+    "fine": 0,
+    "status": "Expired",
+    "issuedBooks": []
+  },
+  {
+    "id": "U010",
+    "name": "Pooja Singh",
+    "email": "pooja.singh@example.com",
+    "phone": "9876543219",
+    "department": "Commerce",
+    "membershipId": "LM1010",
+    "subscriptionType": "Basic",
+    "joinDate": "2026-03-05",
+    "membershipExpiry": "2027-03-05",
+    "maxBooksAllowed": 2,
+    "fine": 0,
+    "status": "Active",
+    "issuedBooks": [
+      {
+        "bookId": "B001",
+        "title": "The Alchemist",
+        "issueDate": "2026-07-28",
+        "dueDate": "2026-08-18",
+        "returnDate": null,
+        "status": "Issued"
+      }
+    ]
+  }
+]

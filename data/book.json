@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 399,
+    "publishedYear": 1988,
+    "stock": 15,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self Help",
+    "price": 550,
+    "publishedYear": 2018,
+    "stock": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "price": 899,
+    "publishedYear": 2008,
+    "stock": 10,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "price": 950,
+    "publishedYear": 1999,
+    "stock": 8,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "price": 450,
+    "publishedYear": 1997,
+    "stock": 12,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Self Help",
+    "price": 350,
+    "publishedYear": 1937,
+    "stock": 18,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "price": 699,
+    "publishedYear": 1997,
+    "stock": 25,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": 599,
+    "publishedYear": 1937,
+    "stock": 14,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Productivity",
+    "price": 499,
+    "publishedYear": 2016,
+    "stock": 16,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Computer Science",
+    "price": 1299,
+    "publishedYear": 2009,
+    "stock": 6,
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "price": 499,
+    "publishedYear": 2020,
+    "stock": 22,
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "title": "Ikigai",
+    "author": "Héctor García",
+    "genre": "Self Help",
+    "price": 399,
+    "publishedYear": 2016,
+    "stock": 19,
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "price": 699,
+    "publishedYear": 2011,
+    "stock": 11,
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson",
+    "genre": "Programming",
+    "price": 799,
+    "publishedYear": 2020,
+    "stock": 13,
+    "rating": 4.9
+  },
+  {
+    "id": 15,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "price": 299,
+    "publishedYear": 1925,
+    "stock": 17,
+    "rating": 4.5
+  }
+]
