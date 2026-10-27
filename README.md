@@ -53,3 +53,14 @@ npm i nodemon --save-dev
 npm run dev
 
 To install node modules and package.lock.json ---- npm i
+
+installed mongoose -- npm i mongoose
+mongodb+srv://anuraagtrivedi989_db_user:<db_password>@cluster0.zvpea3s.mongodb.net/?appName=Cluster0
+mongodb+srv://anuraagtrivedi989_db_user:<i6kFaWOMnBIwBPzh>@cluster0.zvpea3s.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+## MVC Architecture
+  M-model
+  V-View
+  C-Controller
+  
